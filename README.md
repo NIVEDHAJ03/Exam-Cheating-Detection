@@ -38,6 +38,8 @@ When cheating is detected:
 
 
 
+
+
 <img width="1600" height="748" alt="iot3" src="https://github.com/user-attachments/assets/6169d164-05ca-468f-8b56-eb8c3e40c1bf" />
 
 
